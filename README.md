@@ -49,7 +49,7 @@ installation script with parameters:
 Clone the repository:
 
     cd ~
-    git clone https://github.com/julianschill/klipper-led_effect.git
+    git clone https://github.com/13145210220/led_rgb.git
 
 Stop Klipper:
 
